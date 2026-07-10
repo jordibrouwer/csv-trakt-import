@@ -1,2 +1,3 @@
 # csv-trakt-import
- Tv time user? With this script you can eeasily migrate your collection to Trakt.tv
+
+If you used the HDTV app and exported your data to CSV before the shutdown, this project helps you migrate your watchlist and history to Trakt.tv.
